@@ -1,5 +1,7 @@
 # Perturb-seq + Deep Learning: Predicting CRISPRi Guide Identity from Expression
 
+[![CI](https://github.com/syed1789/perturb-seq-deep-learning/actions/workflows/ci.yml/badge.svg)](https://github.com/syed1789/perturb-seq-deep-learning/actions/workflows/ci.yml)
+
 **Author:** Syed Nurul Hasan, Ph.D.
 **Contact:** nayanchoton1789@gmail.com | [ORCID: 0000-0002-4564-872X](https://orcid.org/0000-0002-4564-872X)
 
